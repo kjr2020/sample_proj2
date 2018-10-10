@@ -1,1 +1,3 @@
-Hello GitHubcd sample_proj2
+hello world!
+hello git!
+Add third line.
